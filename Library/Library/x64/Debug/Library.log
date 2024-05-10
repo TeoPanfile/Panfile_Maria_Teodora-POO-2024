@@ -1,0 +1,6 @@
+﻿  Library.cpp
+C:\Users\Teo\source\repos\Library\Library\Library.cpp(92,30): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file '/Library.cpp')
+  
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Library.vcxproj -> C:\Users\Teo\source\repos\Library\x64\Debug\Library.exe
